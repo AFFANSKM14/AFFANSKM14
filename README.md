@@ -1,6 +1,6 @@
 
 
-<img src="https://im5.ezgif.com/tmp/ezgif-5-ecc280c50d.gif" class="centerImage" width="600" height="350">
+<img src="profile.gif" class="centerImage" width="600" height="350">
 
 <h1 align="center">Hi 👋, I'm SKM AFFAN</h1>
 <h3 align="center">A DATA SCIENCE ENTHUSIAST</h3>
